@@ -44,12 +44,11 @@ Full PDF with derivations, plots, and explanations is available in:
 `CIA3_ShinyDevelopment_JoyeetaGoswami_2548118.pdf`
 
 ---
+## 📸 Output
+<p align="left">
+  <img src="Rshiny.png" width="800">
+</p>
 
 ## 👩‍🏫 Author  
 Joyeeta Goswami  
 Christ University – M.Sc. Statistics (2548118)
-
-
-<p align="left">
-  <img src="Rshiny.png" width="800">
-</p>
