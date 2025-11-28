@@ -41,7 +41,7 @@ shiny::runApp("app.R")
 
 Full PDF with derivations, plots, and explanations is available in:
 
-`/CIA3_ShinyDevelopment_JoyeetaGoswami_2548118.pdf`
+`CIA3_ShinyDevelopment_JoyeetaGoswami_2548118.pdf`
 
 ---
 
